@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Maravillas de España</h3>
 <div align="center">
-<a href="https://github.com/sruizdeleon/maravillas-espana-front" target="_blank"><img src="https://i.postimg.cc/7hWNppmS/car-tula-maravillas-de-espana.png" width="400" alt="Proyecto Maravillas de España"></a>
+<a href="https://github.com/sruizdeleon/maravillas-espana-front" target="_blank"><img src="https://i.postimg.cc/m29N4Kvj/caratula-maravillas-de-espana.png" width="400" alt="Proyecto Maravillas de España"></a>
 <p>
 <a href="https://github.com/sruizdeleon/maravillas-espana-front" target="_blank">
 <img src="https://img.shields.io/badge/FRONTEND-2b9ac3?style=for-the-badge&logo=github&logoColor=white">
