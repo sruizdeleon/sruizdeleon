@@ -1,12 +1,11 @@
-<div align="center">
-<h1 align="center">Hola, soy <span color="#4472C4">Sergio</span> 👋</h1>
-</div>
+
 <img src="https://i.postimg.cc/m2Y8829G/Professional-Linked-In-Banner-1.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-ruiz-de-leon/)
+<div align="center">
 <a href="https://www.linkedin.com/in/sergio-ruiz-de-leon/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</div>
 
 ## Sobre mi
 
@@ -25,7 +24,10 @@
 <a href="https://github.com/sruizdeleon/maravillas-espana-front" target="_blank"><img src="https://i.postimg.cc/7hWNppmS/car-tula-maravillas-de-espana.png" width="400" alt="Proyecto Maravillas de España"></a>
 <p>
 <a href="https://github.com/sruizdeleon/maravillas-espana-front" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/FRONTEND-2b9ac3?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/sruizdeleon/maravillas-espana-back" target="_blank">
+<img src="https://img.shields.io/badge/BACKEND-0b4d7c?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Proyecto enfocado al turismo. Buscador de planes, tento rurales como urbanos, dentro de las diferentes provincias y comunidades autónomas de España.</p>
@@ -38,11 +40,14 @@
 <div align="center">                                       
 <a href="https://github.com/sruizdeleon/react_final_project" target="_blank"><img src="https://i.postimg.cc/Wbd8M118/car-tula-play-me.png" width="400" alt="Proyecto Play Me"></a>
 <br>
-<p>
-<a href="https://github.com/sruizdeleon/react_final_project" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<div align="center">
+<a href="https://github.com/sruizdeleon/react_final_project/tree/main/frontend" target="_blank">
+<img src="https://img.shields.io/badge/FRONTEND-2b9ac3?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
+<a href="https://github.com/sruizdeleon/react_final_project/tree/main/backend" target="_blank">
+<img src="https://img.shields.io/badge/BACKEND-0b4d7c?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>
 </p>Proyecto de cinematográfico. Buscador donde puedes encontrar todas las películas y series de los distintos servicios de streaming. Se puede consultar información de la misma, así como, en qué plataforma se encuentran publicadas.</p>
 </div>                                                             
 </table>                                                                                 
