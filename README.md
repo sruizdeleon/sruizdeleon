@@ -10,7 +10,7 @@
 ## Sobre mi
 
 - 🧑🏻‍💻 Full Stack Developer
-- 👨🏻‍🎓 DAM-DAW Student
+- 👨🏻‍🎓 DAM Student
 - 📖 Me gusta aprender cosas nuevas, además sobre temas muy dispares. Creo que la mejor innovación es unir temáticas que, a priori, no tienen relación alguna.
 - 🏀 Mis hobbies son el deporte, en concreto el baloncesto, y el cine.
 <br>
